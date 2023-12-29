@@ -106,7 +106,7 @@ else
             exit 1
         fi
 
-    elif [ "$KERNEL" = "openbsd"  ]; then
+    elif [ "$KERNEL" = "openbsd" ]; then
         pkg_add python py3-pip php
         if [ "$?" -ne 0 ]; then
             printf "${RED}An error occurred! seems pkg_add doesn't work.\n${RST}"
