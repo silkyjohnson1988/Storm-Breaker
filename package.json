@@ -1,0 +1,11 @@
+{
+  "name": "storm-breaker",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r   <br>\r   <a href=\"https://github.com/ultrasecurity/Storm-Breaker\"><img src=\".imgs/1demo.png\" alt=\"StormBreaker\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JS",
+  "license": "ISC"
+}
